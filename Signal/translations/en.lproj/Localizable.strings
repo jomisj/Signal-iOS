@@ -511,7 +511,7 @@
 /* Navbar title when viewing settings for a 1-on-1 thread */
 "CONVERSATION_SETTINGS_CONTACT_INFO_TITLE" = "Contact Info";
 
-/* Indicates that user's profile has been shared with a group. */
+/* Label for table cell which leads to picking a new conversation color */
 "CONVERSATION_SETTINGS_CONVERSATION_COLOR" = "Color";
 
 /* Navbar title when viewing settings for a group thread */
@@ -600,6 +600,12 @@
 
 /* Title shown while the app is updating its database. */
 "DATABASE_VIEW_OVERLAY_TITLE" = "Optimizing Database";
+
+/* Format string for a duration of time, expressed as a certain number of minutes. Embeds {{The number of minutes}}. */
+"DATE_MINUTES_AGO_FORMAT" = "%@ Min Ago";
+
+/* The present; the current time. */
+"DATE_NOW" = "Now";
 
 /* The current day. */
 "DATE_TODAY" = "Today";
